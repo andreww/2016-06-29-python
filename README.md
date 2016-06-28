@@ -8,8 +8,8 @@ after each line):
 
     cd
     cd Desktop
-    git clone https://github.com/andreww/2016-06-29-leeds.git
-    cd 2016-06-29-leeds
+    git clone https://github.com/andreww/2016-06-29-python.git
+    cd 2016-06-29-python
 
 Then start up a jupyter notebook:
 
